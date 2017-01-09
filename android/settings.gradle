@@ -1,0 +1,3 @@
+rootProject.name = 'ItLeanApp'
+
+include ':app'
